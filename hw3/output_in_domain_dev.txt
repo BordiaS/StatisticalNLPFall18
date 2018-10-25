@@ -1,4 +1,3 @@
-
 Influential	NNP
 members	NNS
 of	IN
@@ -334,7 +333,7 @@ bailout	NN
 concludes	VBZ
 .	.
 
-Absent	NNP
+Absent	DT
 other	JJ
 working	VBG
 capital	NN
@@ -9899,7 +9898,7 @@ who	WP
 throws	VBZ
 an	DT
 intercept	NN
-'Cause	VBP
+'Cause	IN
 his	PRP$
 receiver	NN
 slips	VBZ
