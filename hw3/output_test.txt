@@ -2914,7 +2914,7 @@ traders	NNS
 
 And	CC
 the	DT
-Moldovan	NN
+Moldovan	NNP
 airline	NN
 used	VBN
 to	TO
@@ -2967,7 +2967,7 @@ al	NN
 Qaeda	NNP
 .	.
 
-Amnesty	NNP
+Amnesty	DT
 chief	JJ
 spokesman	NN
 Mike	NNP
@@ -3063,7 +3063,7 @@ received	VBN
 any	DT
 weapons	NNS
 from	IN
-Bosnia	NNP
+Bosnia	DT
 "	NN
 and	CC
 added	VBD
@@ -3176,7 +3176,7 @@ Qaeda	NNP
 .	.
 
 The	DT
-Moldovan	NN
+Moldovan	NNP
 airline	NN
 is	VBZ
 Aerocom	NNP
@@ -5206,7 +5206,7 @@ government	NN
 tried	VBD
 to	TO
 absorb	VB
-Mujahedeen	NNP
+Mujahedeen	DT
 children	NNS
 into	IN
 their	PRP$
@@ -5560,7 +5560,7 @@ slaves	NNS
 .	.
 
 The	DT
-Moldovan	NN
+Moldovan	NNP
 airline	NN
 is	VBZ
 Aerocom	NNP
@@ -5964,7 +5964,7 @@ Coogan	NNP
 article	NN
 :	:
 
-Imaginary	NNP
+Imaginary	DT
 evil	NN
 is	VBZ
 romantic	JJ
@@ -5983,10 +5983,10 @@ barren	JJ
 boring	JJ
 .	.
 
-Imaginary	NNP
-good	RB
+Imaginary	DT
+good	JJ
 is	VBZ
-boring	JJ
+boring	VBG
 ;	:
 real	JJ
 good	JJ
@@ -9675,7 +9675,7 @@ has	VBZ
 a	DT
 feeling	NN
 of	IN
-Deja	NNP
+Deja	DT
 vu	NN
 .	.
 
@@ -10042,7 +10042,7 @@ coup	NN
 against	IN
 him	PRP
 by	IN
-Islamist	NNP
+Islamist	DT
 junior	JJ
 officers	NNS
 ,	,
@@ -10700,8 +10700,8 @@ in	IN
 mind	NN
 is	VBZ
 that	IN
-Sunni	NNP
-Arab	NNP
+Sunni	DT
+Arab	JJ
 nationalists	NNS
 and	CC
 Baathists	NNS
@@ -11409,7 +11409,7 @@ provoke	VB
 a	DT
 fight	NN
 with	IN
-Muqtada	NNP
+Muqtada	DT
 al	NN
 -	HYPH
 Sadr	NNP
@@ -15454,7 +15454,7 @@ the	DT
 disastrous	JJ
 siege	NN
 of	IN
-Fallujah	NNP
+Fallujah	DT
 last	JJ
 spring	NN
 ,	,
@@ -17448,7 +17448,7 @@ al	NN
 Islami	NN
 group	NN
 of	IN
-Ayman	NNP
+Ayman	DT
 al	NN
 -	HYPH
 Zawahiri	NNP
@@ -18512,7 +18512,7 @@ not	RB
 bode	VB
 well	RB
 for	IN
-Sunni	NNP
+Sunni	DT
 participation	NN
 in	IN
 the	DT
@@ -19341,7 +19341,7 @@ This	DT
 is	VBZ
 a	DT
 largely	RB
-Sunni	JJ
+Sunni	DT
 Arab	JJ
 clan	NN
 ,	,
@@ -20983,7 +20983,7 @@ to	IN
 the	DT
 success	NN
 of	IN
-Mozilla	NNP
+Mozilla	DT
 software	NN
 over	IN
 the	DT
@@ -21237,7 +21237,7 @@ the	DT
 leading	JJ
 lights	NNS
 in	IN
-Firefox	NNP
+Firefox	DT
 development	NN
 ,	,
 they	PRP
