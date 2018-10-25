@@ -494,7 +494,7 @@ Hussain	NNP
 24	CD
 ,	,
 London	NNP
-E14	</S>
+E14	NNP
 
 Muhammed	NNP
 Usman	NNP
@@ -503,7 +503,7 @@ Saddique	NNP
 24	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Waheed	NNP
 Zaman	NNP
@@ -511,7 +511,7 @@ Zaman	NNP
 22	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Assan	NNP
 Abdullah	NNP
@@ -520,7 +520,7 @@ Khan	NNP
 22	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Waseem	NNP
 Kayani	NNP
@@ -528,7 +528,7 @@ Kayani	NNP
 28	CD
 ,	,
 High	NNP
-Wycombe	</S>
+Wycombe	NNP
 
 Waheed	NNP
 Arafat	NNP
@@ -537,7 +537,7 @@ Khan	NNP
 24	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Cossor	NNP
 Ali	NNP
@@ -545,7 +545,7 @@ Ali	NNP
 24	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Tayib	NNP
 Rauf	NNP
@@ -560,7 +560,7 @@ Savant	NNP
 26	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Osman	NNP
 Adam	NNP
@@ -569,7 +569,7 @@ Khatib	NNP
 20	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Shamin	NNP
 Mohammed	NNP
@@ -587,7 +587,7 @@ Tariq	NNP
 23	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Shazad	NNP
 Khuram	NNP
@@ -596,7 +596,7 @@ Ali	NNP
 27	CD
 ,	,
 High	NNP
-Wycombe	</S>
+Wycombe	NNP
 
 Tanvir	NNP
 Hussain	NNP
@@ -604,7 +604,7 @@ Hussain	NNP
 24	CD
 ,	,
 London	NNP
-E10	</S>
+E10	NNP
 
 Umar	NNP
 Islam	NNP
@@ -625,7 +625,7 @@ Sarwar	NNP
 25	CD
 ,	,
 High	NNP
-Wycombe	</S>
+Wycombe	NNP
 
 Abdullah	NNP
 Ali	NNP
@@ -633,7 +633,7 @@ Ali	NNP
 26	CD
 ,	,
 London	NNP
-E17	</S>
+E17	NNP
 
 Abdul	NNP
 Muneem	NNP
@@ -642,7 +642,7 @@ Patel	NNP
 17	CD
 ,	,
 London	NNP
-E5	</S>
+E5	NNP
 
 Nabeel	NNP
 Hussain	NNP
@@ -9096,7 +9096,7 @@ Directorate	NNP
 
 Karzai	NNP
 ,	,
-Musharraf	NNP
+Musharraf	DT
 new	JJ
 regional	JJ
 equations	NNS
@@ -9377,7 +9377,7 @@ meeting	NN
 said	VBD
 Bush	NNP
 pushed	VBD
-Musharraf	NNP
+Musharraf	DT
 hard	JJ
 on	IN
 reigning	VBG
@@ -16584,7 +16584,7 @@ wants	VBZ
 "	DT
 anthrax	NN
 for	IN
-Jew	NNP
+Jew	DT
 sympathizer	NN
 only	RB
 .	.
@@ -17197,7 +17197,7 @@ to	TO
 focus	VB
 on	IN
 the	DT
-traceable	DT
+traceable	NN
 connection	NN
 between	IN
 him	PRP
@@ -19442,10 +19442,10 @@ liberals	NNS
 .	.
 "	.
 
-Zawahiri	NNP
-likely	RB
-targeted	VBN
-Senators	NNP
+Zawahiri	DT
+likely	JJ
+targeted	JJ
+Senators	NNS
 Daschle	NNP
 and	CC
 Leahy	NNP
@@ -21898,7 +21898,7 @@ time	NN
 to	TO
 "	DT
 recognize	VB
-Hezbollah	NNP
+Hezbollah	DT
 "	NN
 after	IN
 easily	RB
@@ -22247,8 +22247,8 @@ attacks	NNS
 A	DT
 la	JJ
 guerre	NN
-c'est	MD
-comme	VB
+c'est	NNP
+comme	IN
 a	DT
 la	JJ
 guerre	NN
@@ -23725,12 +23725,12 @@ media	NNS
 
 Chalabi	NNP
 describing	VBG
-Sha'lan	NNS
+Sha'lan	NNP
 as	IN
 a	DT
-"	DT
-Ba'athist	NNP
 "	NN
+Ba'athist	IN
+"	DT
 and	CC
 a	DT
 "	DT
@@ -24311,9 +24311,9 @@ old	JJ
 timer	NN
 who	WP
 claimed	VBD
-that	WDT
-Ba'athists	MD
-have	VB
+that	IN
+Ba'athists	NNP
+have	VBP
 the	DT
 means	VBZ
 to	TO
@@ -24321,7 +24321,7 @@ stage	VB
 a	DT
 third	JJ
 coup	NN
-d'etat	NNS
+d'etat	NNP
 and	CC
 return	NN
 to	IN
@@ -24593,7 +24593,7 @@ effectively	RB
 root	VB
 out	RP
 any	DT
-Ba'athists	NN
+Ba'athists	NNP
 in	IN
 their	PRP$
 midst	NN
